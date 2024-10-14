@@ -1,4 +1,5 @@
 import React from "react";
+import pdf from "../assets/Piyush Suhagiya Resume - SkillQode.pdf"
 
 const Resume = () => {
   return (
@@ -7,11 +8,13 @@ const Resume = () => {
         <h2 className="text-3xl font-bold mb-5">Resume</h2>
         <div class="cv">
           <a
-            href="../assets/Piyush%20Suhagiya%20Resume%20-%20SkillQode.pdf"
+            href={pdf}
             download="Piyush-Resume"
             role="button"
-            target="_blank"
             className="border-[1px] px-2 py-1 rounded bg-white"
+            onClick={(e)=>{
+              window.open(pdf,"_blank")
+            }}
           >
             Download CV
           </a>

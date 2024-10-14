@@ -26,23 +26,7 @@ const About = () => {
             Skills & Expertise
           </h1>
           <span className="text-justify">
-            Proficient in [Programming Languages] Experienced with [Software
-            Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-            Excellent problem-solving skills Effective communicator and
-            collaborator
-          </span>
-          <br />
-          <br />
-          <h1 className="text-green-500 font-semibold text-xl">
-            Professional Experience
-          </h1>
-          <span className="text-justify">
-            [Job Title], [Company/Organization], [Dates] [Brief description of
-            responsibilities and achievements] [Job Title],
-            [Company/Organization], [Dates] [Brief description of
-            responsibilities and achievements] [Freelance/Contract Work],
-            [Client/Organization], [Dates] [Brief description of projects and
-            contributions]
+            Proficient in C Language, C++, JavaScript Experienced with VS Code, Git & GitHub Strong grasp of PhotoShop Excellent problem-solving skills Effective communicator and collaborator
           </span>
           <br />
           <br />
@@ -51,7 +35,7 @@ const About = () => {
           </h1>
           <p className="text-justify">
             My mission is to leverage my skills and creativity to deliver
-            innovative [Your Field] solutions that exceed client expectations
+            innovative Information Technology solutions that exceed client expectations
             and contribute positively to the digital landscape. I am committed
             to continuous learning and growth, always seeking new challenges and
             opportunities to expand my horizons.
